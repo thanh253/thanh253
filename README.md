@@ -6,8 +6,8 @@
 
 <h1 align="center">Hi there, I'm <strong>Tiến Thành</strong> 👋</h1>
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3500&pause=800&color=00E7FF&center=true&vCenter=true&width=500&lines=Full‑stack+Developer;React+%7C+Node.js+%7C+Next.js;Builder+of+clean+UIs;Always+learning+%F0%9F%92%AA%F0%9F%8F%BB">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3500&pause=800&color=00E7FF&center=true&vCenter=true&width=500&lines=Full‑stack+Developer;React+%7C+Node.js+%7C+Next.js;Builder+of+clean+UIs;Always+learning+%F0%9F%92%AA%F0%9F%8F%BB" alt="Typing SVG"/>
+  <a href="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3500&pause=800&color=00E7FF&center=true&vCenter=true&width=500&lines=AI+Developer;Python+%7C+Django+%7C+Web+Dev;Always+learning+%F0%9F%92%AA%F0%9F%8F%BB">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3500&pause=800&color=00E7FF&center=true&vCenter=true&width=500&lines=AI+Developer;Python+%7C+Django+%7C+Web+Dev;Always+learning+%F0%9F%92%AA%F0%9F%8F%BB" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -16,22 +16,22 @@
 <!-- Quick Intro -->
 
 <p align="center">
-  🇨🇦 Based in Canada • 👨‍💻 Passionate about building delightful products
+  🇨🇦 Based in Canada • 👨‍💻 AI & Web developer passionate about Python & Django
 </p>
 
 <div align="center">
-  <a href="mailto:pedro.sales.muniz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://salesp07.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:tuannlse171583@fpt.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/thanh253" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thanh253" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
 <hr/>
 
 ### 🧭 About me
 
-* 🔭 Currently building **a marketplace** (buyer–seller flows, secure checkout, admin dashboards)
+* 🔭 Currently building **AI-powered web apps** using Django + React
 * 🌱 Leveling up on **Docker · Supabase · AWS**
-* 💬 Ask me about **Node.js, React, Firebase** — or open an issue **[here](https://github.com/thanh253/thanh253/issues)**
+* 💬 Ask me about **Python, Django, AI, React, Firebase** — or open an issue **[here](https://github.com/thanh253/thanh253/issues)**
 * ⚡ Fun fact: *Game of Thrones* Night’s Watch cloaks were famously made from IKEA rugs.
 
 <hr/>
@@ -39,25 +39,23 @@
 ### 🧰 Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui,js,ts,nodejs,express,html,css,vite,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,tailwind,bootstrap,mui,js,ts,nodejs,express,html,css,vscode" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,supabase,prisma,redis,python,flask,java,c,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,supabase,flask,git,github,figma,docker,aws" />
 </div>
 
 <hr/>
 
 ### 🚀 Featured projects
 
-> Swap in your own repositories below.
+* **AI Chat Assistant** – A conversational AI assistant built with Django backend + React frontend
+  `Python · Django · React · OpenAI API`
 
-* **Marketplace App** – Multi‑vendor listings, Stripe payments, role‑based access
-  `React · Next.js · Prisma · Postgres · Stripe`
+* **E-commerce Platform** – Scalable marketplace with payments & order tracking
+  `Django · PostgreSQL · Stripe · Docker`
 
-* **Realtime Chat** – E2E‑ish chat with presence & file uploads
-  `React · Firebase · Zustand`
-
-* **Serverless Notes** – CRUD, auth, and storage on the edge
-  `Next.js · Supabase · AWS Lambda`
+* **Portfolio Website** – Personal portfolio with blog & project showcase
+  `Django · Tailwind · SQLite`
 
 <hr/>
 
@@ -88,4 +86,4 @@
 
 ---
 
-<sub>Tip: keep sections short, separate with `<hr/>`, and prefer consistent widths for images (e.g., 390px) so the layout looks tidy on light/dark themes.</sub>
+<sub>Tip: keep sections short, separate with `<hr/>`, and prefer consistent widths for images so the layout looks tidy on light/dark themes.</sub>
