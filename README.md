@@ -1,12 +1,7 @@
-<!-- Visitor Badge -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thanh253.profile" />
-</p>
-
 <h1 align="center">Tiến Thành Trần</h1>
 
 <p align="center">
-AI Engineer | Research-Driven Architecture Development | Structured ML Pipelines
+AI Engineer | Research Implementation | Structured ML Training Pipelines
 </p>
 
 ---
@@ -15,7 +10,7 @@ AI Engineer | Research-Driven Architecture Development | Structured ML Pipelines
 
 - Background in Artificial Intelligence  
 - Focused on research-driven architecture extension and structured ML training pipelines  
-- Experienced in implementing and modifying research-based deep learning models  
+- Experienced in translating research papers into reproducible deep learning implementations  
 - Interested in building AI systems with strong experimental structure and deployment awareness  
 
 This GitHub showcases selected academic and applied AI system projects.
@@ -33,8 +28,12 @@ Email: **tienthanhpro2003@gmail.com**
   <a href="https://www.linkedin.com/in/th%C3%A0nh-tr%E1%BA%A7n-ti%E1%BA%BFn-01aaa5277/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/thanh253" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
+---
 
 ## Technical Focus
 
@@ -123,8 +122,7 @@ Vision Transformer implemented from scratch using TensorFlow/Keras for 9-class m
 ## GitHub Activity
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=thanh253&theme=react&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=thanh253&show_icons=true&theme=react&hide_border=true" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=thanh253&show_icons=true&hide_border=true" />
 </div>
 
 ---
