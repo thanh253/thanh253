@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Tiến Thành Trần</h1>
 
 <p align="center">
-AI & Machine Learning Developer | Building Intelligent Systems
+AI & Machine Learning Developer | Building Intelligent AI Systems
 </p>
 
 ---
@@ -15,10 +15,10 @@ AI & Machine Learning Developer | Building Intelligent Systems
 
 - 🎓 Background in Artificial Intelligence  
 - 🧠 Focused on Machine Learning, Deep Learning, and AI system development  
-- 🚀 Experienced in building end-to-end ML pipelines from data preprocessing to model evaluation  
-- 📌 This GitHub showcases selected academic and capstone AI projects  
+- 🚀 Experienced in building end-to-end ML pipelines and integrating AI models into real-world applications  
+- 📌 This GitHub showcases selected academic and system-based AI projects  
 
-I am particularly interested in applying AI models to practical, real-world systems.
+I am particularly interested in designing intelligent systems that combine strong model performance with practical system architecture.
 
 ---
 
@@ -41,39 +41,46 @@ I am particularly interested in applying AI models to practical, real-world syst
 ## 🧠 Technical Focus
 
 ### Machine Learning & Deep Learning
-- PyTorch
-- TensorFlow / Keras
-- Transformer architectures (Vision Transformer)
-- Model training & experimentation
-- Data preprocessing & augmentation
-- Model evaluation (Accuracy, Precision, Recall, F1-score)
+- PyTorch  
+- TensorFlow / Keras  
+- Transformer architectures (Vision Transformer)  
+- Model training & experimentation  
+- Data preprocessing & augmentation  
+- Model evaluation (Accuracy, Precision, Recall, F1-score)  
 
 ### Backend & System Development
-- Django (MVC architecture)
-- REST API development
-- Relational databases (SQLite)
-- AI model integration into web applications
+- Django (Modular MVC architecture)  
+- MySQL (Relational Database Design)  
+- Google OAuth Authentication  
+- SMTP Email Integration  
+- AI model integration into web applications  
+- Backend architecture & business logic design  
 
 ---
 
-# 🚀 Projects
+# 🚀 Selected Projects
 
-## 1️⃣ CareerPath – AI-Assisted Career Recommendation Platform
+---
+
+## 1️⃣ CareerPath – AI-Assisted Career Recommendation Platform  
 🔗 https://github.com/thanh253/careerpath  
 
 A Django-based web platform that provides structured career assessment and personalized recommendations.
 
 **Key Highlights:**
-- Designed full-stack architecture using Django MVC pattern  
+- Designed modular backend architecture using Django  
 - Implemented structured career assessment workflow  
-- Developed rule-based recommendation engine for personalized suggestions  
-- Managed relational database for user and career data  
+- Developed rule-based recommendation engine  
+- Integrated Google OAuth authentication  
+- Built subscription & premium logic system  
+- Managed relational database using MySQL  
+- Designed server-side rendered frontend using Django Templates  
 
-**Tech:** Django · Python · SQLite · Web Development  
+**Tech:** Django · Python · MySQL · HTML · CSS · Google OAuth  
 
 ---
 
-## 2️⃣ AI Capstone Project – Deep Learning System Implementation
+## 2️⃣ AI Capstone Project – Deep Learning System Implementation  
 🔗 https://github.com/thanh253/AI-capstone-project  
 
 An end-to-end deep learning project applying neural networks to a real-world classification problem.
@@ -82,23 +89,26 @@ An end-to-end deep learning project applying neural networks to a real-world cla
 - Built complete ML pipeline: preprocessing → training → validation → testing  
 - Implemented deep learning models using PyTorch  
 - Applied model evaluation using classification metrics  
-- Conducted experiments to analyze and compare model performance  
+- Conducted structured experiments for performance comparison  
+- Organized training workflow for reproducibility  
 
 **Tech:** Python · PyTorch · Machine Learning · Deep Learning  
 
 ---
 
-## 3️⃣ Vision Transformer (ViT) – Mango Leaf Disease Classification
+## 3️⃣ Vision Transformer (ViT) – Mango Leaf Disease Classification  
 🔗 https://github.com/thanh253/Vit-classification  
 
-Implementation of a Vision Transformer (ViT) built from scratch using TensorFlow/Keras for 9-class mango leaf disease classification.
+Implementation of a Vision Transformer built from scratch using TensorFlow/Keras for 9-class mango leaf disease classification.
 
 **Key Highlights:**
 - Implemented patch embedding and positional encoding  
 - Built custom Transformer encoder blocks with multi-head self-attention  
-- Applied data augmentation and AdamW optimization  
+- Designed 9-class classification architecture  
+- Applied data augmentation techniques  
+- Used AdamW optimization for stable convergence  
 - Achieved 96% test accuracy on 4,111 images  
-- Compared performance with CNN baselines (VGG-16, EfficientNet)  
+- Compared performance with CNN baselines (VGG16, EfficientNet)  
 
 **Tech:** TensorFlow · Keras · Computer Vision · Deep Learning  
 
@@ -114,5 +124,5 @@ Implementation of a Vision Transformer (ViT) built from scratch using TensorFlow
 ---
 
 <p align="center">
-Focused on building practical AI systems and continuously improving engineering skills.
+Focused on building practical AI systems and continuously strengthening engineering fundamentals.
 </p>
