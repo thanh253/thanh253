@@ -15,7 +15,7 @@ AI & Machine Learning Developer | Building Intelligent AI Systems
 
 - 🎓 Background in Artificial Intelligence  
 - 🧠 Focused on Machine Learning, Deep Learning, and AI system development  
-- 🚀 Experienced in building end-to-end ML pipelines and integrating AI models into real-world applications  
+- 🚀 Experienced in building end-to-end ML pipelines and integrating AI models into web-based systems applications  
 - 📌 This GitHub showcases selected academic and system-based AI projects  
 
 I am particularly interested in designing intelligent systems that combine strong model performance with practical system architecture.
