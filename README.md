@@ -14,11 +14,11 @@ AI & Machine Learning Developer | Building Intelligent AI Systems
 ## 👨‍💻 About Me
 
 - 🎓 Background in Artificial Intelligence  
-- 🧠 Focused on Machine Learning, Deep Learning, and AI system development  
-- 🚀 Experienced in building end-to-end ML pipelines and integrating AI models into web-based systems applications  
-- 📌 This GitHub showcases selected academic and system-based AI projects  
+- 🧠 Focused on Machine Learning, Deep Learning, and AI system design  
+- 🚀 Experienced in building structured ML pipelines and extending research-based architectures  
+- 📌 This GitHub showcases selected academic and applied AI system projects  
 
-I am particularly interested in designing intelligent systems that combine strong model performance with practical system architecture.
+I am particularly interested in designing intelligent systems that combine strong model performance with structured training pipelines and practical deployment workflows.
 
 ---
 
@@ -43,10 +43,11 @@ I am particularly interested in designing intelligent systems that combine stron
 ### Machine Learning & Deep Learning
 - PyTorch  
 - TensorFlow / Keras  
+- GAN architectures (WGAN-based training)  
 - Transformer architectures (Vision Transformer)  
-- Model training & experimentation  
-- Data preprocessing & augmentation  
-- Model evaluation (Accuracy, Precision, Recall, F1-score)  
+- Model experimentation & architecture modification  
+- Data preprocessing pipelines  
+- Model evaluation (Accuracy, Precision, Recall, F1-score, AUC)  
 
 ### Backend & System Development
 - Django (Modular MVC architecture)  
@@ -80,19 +81,29 @@ A Django-based web platform that provides structured career assessment and perso
 
 ---
 
-## 2️⃣ AI Capstone Project – Deep Learning System Implementation  
+## 2️⃣ AI Capstone Project – Synthetic EHR Generation & Evaluation  
 🔗 https://github.com/thanh253/AI-capstone-project  
 
-An end-to-end deep learning project applying neural networks to a real-world classification problem.
+A research-oriented deep learning project focused on synthetic Electronic Health Record (EHR) data generation and evaluation using GAN-based architectures.
 
 **Key Highlights:**
-- Built complete ML pipeline: preprocessing → training → validation → testing  
-- Implemented deep learning models using PyTorch  
-- Applied model evaluation using classification metrics  
-- Conducted structured experiments for performance comparison  
-- Organized training workflow for reproducibility  
 
-**Tech:** Python · PyTorch · Machine Learning · Deep Learning  
+- Extended an existing MTGAN architecture based on published research  
+- Designed and implemented an improved MTGAN-Dual variant for enhanced multi-modal EHR modeling  
+- Structured full GAN training workflow including Generator and Critic update loops  
+- Applied Wasserstein-based adversarial training  
+- Implemented organized trainer modules for reproducible experiments  
+- Conducted benchmarking against baseline models (e.g., LSTM, GPT-based variants)  
+- Evaluated synthetic data quality using downstream predictive tasks  
+- Integrated trained models into a Django-based web demo for inference simulation  
+
+**Core Components:**
+- Modular GAN architecture (Generator / Critic separation)  
+- Structured training pipeline (custom trainer logic)  
+- Synthetic data generation workflow  
+- Downstream clinical prediction evaluation  
+
+**Tech:** Python · PyTorch · GAN · Deep Learning · Research Implementation  
 
 ---
 
@@ -124,5 +135,5 @@ Implementation of a Vision Transformer built from scratch using TensorFlow/Keras
 ---
 
 <p align="center">
-Focused on building practical AI systems and continuously strengthening engineering fundamentals.
+Focused on building structured AI systems, extending research architectures, and strengthening ML engineering fundamentals.
 </p>
