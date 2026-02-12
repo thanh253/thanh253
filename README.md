@@ -3,129 +3,126 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thanh253.profile" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tiến Thành Trần</h1>
+<h1 align="center">Tiến Thành Trần</h1>
 
 <p align="center">
-AI & Machine Learning Developer | Building Intelligent AI Systems
+AI Engineer | Research-Driven Architecture Development | Structured ML Pipelines
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Background in Artificial Intelligence  
-- 🧠 Focused on Machine Learning, Deep Learning, and AI system design  
-- 🚀 Experienced in building structured ML pipelines and extending research-based architectures  
-- 📌 This GitHub showcases selected academic and applied AI system projects  
+- Background in Artificial Intelligence  
+- Focused on research-driven architecture extension and structured ML training pipelines  
+- Experienced in implementing and modifying research-based deep learning models  
+- Interested in building AI systems with strong experimental structure and deployment awareness  
 
-I am particularly interested in designing intelligent systems that combine strong model performance with structured training pipelines and practical deployment workflows.
+This GitHub showcases selected academic and applied AI system projects.
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:tienthanhpro2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tienthanhpro2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/th%C3%A0nh-tr%E1%BA%A7n-ti%E1%BA%BFn-01aaa5277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tiến%20Thành%20Trần-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/thanh253" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-thanh253-171515?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Technical Focus
+## Technical Focus
 
 ### Machine Learning & Deep Learning
 - PyTorch  
 - TensorFlow / Keras  
-- GAN architectures (WGAN-based training)  
+- GAN architectures (Wasserstein-based training)  
 - Transformer architectures (Vision Transformer)  
-- Model experimentation & architecture modification  
-- Data preprocessing pipelines  
+- Architecture experimentation & model extension  
+- Structured training pipelines  
 - Model evaluation (Accuracy, Precision, Recall, F1-score, AUC)  
 
 ### Backend & System Development
-- Django (Modular MVC architecture)  
+- Django (Modular architecture)  
 - MySQL (Relational Database Design)  
-- Google OAuth Authentication  
-- SMTP Email Integration  
-- AI model integration into web applications  
-- Backend architecture & business logic design  
+- Google OAuth Integration  
+- SMTP Email Services  
+- AI model deployment within web systems  
+- Backend business logic design  
 
 ---
 
-# 🚀 Selected Projects
+# Selected Projects
 
 ---
 
-## 1️⃣ CareerPath – AI-Assisted Career Recommendation Platform  
-🔗 https://github.com/thanh253/careerpath  
-
-A Django-based web platform that provides structured career assessment and personalized recommendations.
-
-**Key Highlights:**
-- Designed modular backend architecture using Django  
-- Implemented structured career assessment workflow  
-- Developed rule-based recommendation engine  
-- Integrated Google OAuth authentication  
-- Built subscription & premium logic system  
-- Managed relational database using MySQL  
-- Designed server-side rendered frontend using Django Templates  
-
-**Tech:** Django · Python · MySQL · HTML · CSS · Google OAuth  
-
----
-
-## 2️⃣ AI Capstone Project – Synthetic EHR Generation & Evaluation  
+## AI Capstone Project – Synthetic EHR Generation & Evaluation  
 🔗 https://github.com/thanh253/AI-capstone-project  
+⭐ Flagship Research Project
 
-A research-oriented deep learning project focused on synthetic Electronic Health Record (EHR) data generation and evaluation using GAN-based architectures.
+Research-oriented deep learning project focused on synthetic Electronic Health Record (EHR) generation using GAN-based architectures.
 
-**Key Highlights:**
-
-- Extended an existing MTGAN architecture based on published research  
-- Designed and implemented an improved MTGAN-Dual variant for enhanced multi-modal EHR modeling  
-- Structured full GAN training workflow including Generator and Critic update loops  
-- Applied Wasserstein-based adversarial training  
-- Implemented organized trainer modules for reproducible experiments  
-- Conducted benchmarking against baseline models (e.g., LSTM, GPT-based variants)  
-- Evaluated synthetic data quality using downstream predictive tasks  
-- Integrated trained models into a Django-based web demo for inference simulation  
+**Key Contributions:**
+- Extended MTGAN architecture based on published research  
+- Designed MTGAN-Dual variant for improved multi-modal EHR modeling  
+- Implemented structured GAN training workflow (Generator/Critic update loops)  
+- Applied Wasserstein adversarial training  
+- Benchmarked against baseline models (LSTM, GPT-based variants)  
+- Evaluated synthetic data via downstream clinical prediction tasks  
+- Integrated trained model into Django-based inference demo  
 
 **Core Components:**
-- Modular GAN architecture (Generator / Critic separation)  
-- Structured training pipeline (custom trainer logic)  
-- Synthetic data generation workflow  
-- Downstream clinical prediction evaluation  
+- Modular GAN architecture  
+- Reproducible training pipeline  
+- Downstream evaluation framework  
 
-**Tech:** Python · PyTorch · GAN · Deep Learning · Research Implementation  
+**Tech:** Python · PyTorch · GAN · Research Implementation  
 
 ---
 
-## 3️⃣ Vision Transformer (ViT) – Mango Leaf Disease Classification  
-🔗 https://github.com/thanh253/Vit-classification  
+## CareerPath – AI-Assisted Career Recommendation Platform  
+🔗 https://github.com/thanh253/careerpath  
 
-Implementation of a Vision Transformer built from scratch using TensorFlow/Keras for 9-class mango leaf disease classification.
+Django-based web platform for structured career assessment and personalized recommendations.
 
 **Key Highlights:**
-- Implemented patch embedding and positional encoding  
-- Built custom Transformer encoder blocks with multi-head self-attention  
-- Designed 9-class classification architecture  
-- Applied data augmentation techniques  
-- Used AdamW optimization for stable convergence  
-- Achieved 96% test accuracy on 4,111 images  
-- Compared performance with CNN baselines (VGG16, EfficientNet)  
+- Modular backend architecture  
+- Structured assessment workflow  
+- Rule-based recommendation engine  
+- Google OAuth authentication  
+- Subscription & premium logic  
+- MySQL relational database design  
+- Planned ML-driven recommendation module (roadmap)  
 
-**Tech:** TensorFlow · Keras · Computer Vision · Deep Learning  
+**Tech:** Django · Python · MySQL · HTML · CSS  
 
 ---
 
-## 📊 GitHub Activity
+## Vision Transformer (ViT) – Mango Leaf Disease Classification  
+🔗 https://github.com/thanh253/Vit-classification  
+
+Vision Transformer implemented from scratch using TensorFlow/Keras for 9-class mango leaf disease classification.
+
+**Key Highlights:**
+- Custom patch embedding & positional encoding  
+- Transformer encoder with multi-head self-attention  
+- AdamW optimization  
+- Data augmentation pipeline  
+- Achieved 96% test accuracy on 4,111 images  
+- Performance comparison with CNN baselines (VGG16, EfficientNet)  
+
+**Tech:** TensorFlow · Keras · Computer Vision  
+
+---
+
+## GitHub Activity
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=thanh253&theme=react&hide_border=true" />
@@ -135,5 +132,5 @@ Implementation of a Vision Transformer built from scratch using TensorFlow/Keras
 ---
 
 <p align="center">
-Focused on building structured AI systems, extending research architectures, and strengthening ML engineering fundamentals.
+Focused on building research-driven AI systems and structured ML engineering workflows.
 </p>
