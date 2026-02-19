@@ -122,8 +122,8 @@ Vision Transformer implemented from scratch using TensorFlow/Keras for 9-class m
 ## GitHub Activity
 
 <div align="center">
-  <img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thanh253&show_icons=true&hide_border=true" />
-
+ 
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=thanh253&theme=react&hide_border=true" />
 </div>
 
 ---
